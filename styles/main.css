@@ -1,0 +1,17 @@
+body {
+  padding-top: 50px;
+}
+.road {
+  stroke: #212121;
+  fill: none;
+  stroke-width: 25px;
+}
+.g-car {
+  transition: all 1s ease-in-out;
+}
+rect.car {
+  stroke: none;
+  fill: #4fc3f7;
+  rx: 5;
+  ry: 5;
+}
